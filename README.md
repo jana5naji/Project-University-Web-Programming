@@ -1,5 +1,5 @@
 # Project-University-Web-Programming
-Online Shopping 
+Online Shopping. 
 This project appears to be a web-based shopping cart implementation. 
 The provided code defines functions to add items to the shopping cart, remove items from the cart, and update the cart display on a webpage. 
 It keeps track of the shopping cart items in an array (shoppingCart) and calculates the total price of the items. 
